@@ -35,10 +35,10 @@ This project provides an end-to-end breakdown of revenue, sales volume, profitab
 ## 🚀 How to View & Use
 1. Clone or download this repository:
    git clone https://github.com/your-username/coffee-sales-dashboard.git
-2. Open `Coffee_Sales_Performance_Dashboard.xlsx` in **Microsoft Excel 2019 or later** (or Excel 365).
+2. Open `Coffee_Sales_Performance_Dashboard.xlsx` in **Microsoft Excel** (or Excel 365).
 3. The workbook contains the following sheet architecture:
    * **`Dashboard`**: The main interactive visualization interface with slicers and KPI cards.
-   * **`Data Model / Lookup Tables`**: Source data sheets containing sales transactions, salesperson lookup table, and product categories.
+   * **`Table`**: Source data sheets containing sales transactions and salesperson lookup table.
 4. Interact with the **Salesperson**, **Category**, and **Region** slicers at the top of the `Dashboard` sheet to filter the views dynamically.
 
 ---
