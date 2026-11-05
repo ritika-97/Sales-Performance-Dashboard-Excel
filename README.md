@@ -33,14 +33,14 @@ This project provides an end-to-end breakdown of revenue, sales volume, profitab
 ---
 
 ## 📁 Repository Structure
-
+```text
 ├── Dashboard/
 │   └── coffee_company_sales_dashboard.xlsx # Complete workbook (Data Model, Source Data & Dashboard)
 ├── Screenshots/
 │   └── Dashboard_overview.png                 # Main preview image
 |   └── Filtered_Dashboard.png
 └── README.md                                   # Project documentation
-
+text```
 ---
 
 ## 🚀 How to View & Use
