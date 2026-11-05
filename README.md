@@ -32,17 +32,6 @@ This project provides an end-to-end breakdown of revenue, sales volume, profitab
 
 ---
 
-## 📁 Repository Structure
-```text
-├── Dashboard/
-│   └── coffee_company_sales_dashboard.xlsx # Complete workbook (Data Model, Source Data & Dashboard)
-├── Screenshots/
-│   └── Dashboard_overview.png                 # Main preview image
-|   └── Filtered_Dashboard.png
-└── README.md                                   # Project documentation
-text```
----
-
 ## 🚀 How to View & Use
 1. Clone or download this repository:
    git clone https://github.com/your-username/coffee-sales-dashboard.git
@@ -58,3 +47,14 @@ text```
 * **Data Modeling & Analytics:** Relational database setup, Data Model architecture, DAX logic, Pivot Tables.
 * **Dashboard Design & UX:** Dark brown/warm color palette, card-container UI layout, KPI hierarchy, interactive visual alignment.
 * **Business Intelligence:** Commission modeling, revenue forecasting, channel margin analysis, salesperson performance tracking.
+
+---
+
+## 📁 Repository Structure
+```text
+├── Dashboard/
+│   └── coffee_company_sales_dashboard.xlsx # Complete workbook (Data Model, Source Data & Dashboard)
+├── Screenshots/
+│   └── Dashboard_overview.png                 # Main preview image
+|   └── Filtered_Dashboard.png
+└── README.md                                   # Project documentation
