@@ -46,7 +46,7 @@ This project provides an end-to-end breakdown of revenue, sales volume, profitab
 ## 💼 Skills Demonstrated
 * **Data Modeling & Analytics:** Relational database setup, Data Model architecture, DAX logic, Pivot Tables.
 * **Dashboard Design & UX:** Dark brown/warm color palette, card-container UI layout, KPI hierarchy, interactive visual alignment.
-* **Business Intelligence:** Commission modeling, revenue forecasting, channel margin analysis, salesperson performance tracking.
+* **Business Intelligence:** Commission modeling, revenue analysis, channel margin analysis, salesperson performance tracking.
 
 ---
 
